@@ -89,15 +89,15 @@ a.filled-button:hover {
 }
 
 .products-heading {
-	background-image: url(products-heading.jpg);
+	background-image: url(../images/products-heading.jpg);
 }
 
 .about-heading {
-	background-image: url(about-heading.jpg);
+	background-image: url(../images/about-heading.jpg);
 }
 
 .contact-heading {
-	background-image: url(contact-heading.jpg);
+	background-image: url(../images/contact-heading.jpg);
 }
 
 .page-heading {
